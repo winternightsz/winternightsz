@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hi 👋, I'm Iza</p>
+<p align="left">I'm starting my programming journey!</p>
 
 ###
 
