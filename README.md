@@ -1,5 +1,5 @@
 <div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="GIF by <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=animation&amp;utm_content=2498"  />
 </div>
 
 ###
@@ -26,8 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=winternightsz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=winternightsz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/winternightsz/count.svg?"  />
