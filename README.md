@@ -1,7 +1,5 @@
 <div align="right">
- 
- [![image](https://user-images.githubusercontent.com/104799350/236060909-47565278-59bc-4d51-9551-e873cc93b4be.png)](https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif)
- 
+   <img size="300px" src="gif/angry-2498.gif" />
 </div>
 
 ###
