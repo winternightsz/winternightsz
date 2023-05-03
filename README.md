@@ -1,5 +1,5 @@
 <div align="right">
-  <img height="200" src="GIF by <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=animation&amp;utm_content=2498"  />
+  <img height="200" src="https://pixabay.com/gifs/id-2498/"  />
 </div>
 
 ###
