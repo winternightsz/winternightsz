@@ -35,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/winternightsz/winternightsz/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/winternightsz/winternightsz/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
