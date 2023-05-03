@@ -22,9 +22,15 @@
 ###
 
 # 📊 GitHub Stats:
+<div align="left">
 ![](https://github-readme-stats.vercel.app/api?username=winternightsz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=winternightsz&theme=dracula&hide_border=false)<br/>
+</div>
+<div align="right">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=winternightsz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 
 <div align="center">
